@@ -1,1 +1,1 @@
-Dk Captian
+print (Dk Captian)
